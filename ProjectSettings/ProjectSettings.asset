@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 00000000000000000000000000000000
+  productGUID: bc6aa4c84d1004545b8002de91965a58
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -631,7 +631,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: 28b6dd98-b9d8-4ba8-a47d-90a7ea62c66c
-  projectName: Tower Defence
+  projectName: Cert4Term1
   organizationId: stephen-sant
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
