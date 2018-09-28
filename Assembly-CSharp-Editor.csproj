@@ -105,6 +105,9 @@
     <Compile Include="Assets\Scripts\TowerDefense\Nodes\Editor\NodeEditor.cs" />
     <Compile Include="Assets\Scripts\TowerDefense\Targetting\Editor\TargetterEditor.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
+    <Reference Include="Assembly-UnityScript">
+      <HintPath>C:/Users/stephen.sant2.AD/Desktop/Cert4Term1/Cert4Term1/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/stephen.sant2.AD/Desktop/Cert4Term1/Cert4Term1/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
@@ -404,6 +407,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{886F8125-A6A5-06E9-132C-CDC3F264BD65}</Project>
+      <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{B45FBD75-B0A5-B8C4-AE55-013937884690}</Project>
       <Name>Assembly-CSharp</Name>
